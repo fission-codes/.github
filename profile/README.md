@@ -16,6 +16,7 @@ Fission's true local-first, edge computing stack. Webnative empowers you to guil
 
 - [Webnative SDK](https://github.com/fission-codes/webnative)
 - [Webnative Docs](https://guide.fission.codes/)
+- [Webnative Whitepaper](https://github.com/fission-codes/whitepaper)
 - [Webnative Examples](https://github.com/webnative-examples)
 
 ## Connect with us!
