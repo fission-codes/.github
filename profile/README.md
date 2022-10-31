@@ -1,6 +1,6 @@
 # Building protocols for the future of the Internet
 
-Fission is building the _data_, _auth_ & _compute_ primitives that enable true local-first edge applications.
+Fission is building the _data_, _identity_ & _compute_ primitives that enable true local-first edge applications.
 
 ## Working Groups
 
@@ -12,16 +12,17 @@ We don't get to the future alone. Fission collaborates with other developers and
 
 ## Webnative
 
-Fission's true local-first, edge computing stack. Webnative empowers you to guild fully distributed web applications without needing a complex backend.
+Fission's true local-first, edge computing stack. Webnative empowers you to build fully distributed web applications with auth and storage without needing a complex backend.
 
-- [Webnative SDK](https://github.com/fission-codes/webnative)
-- [Webnative Docs](https://guide.fission.codes/)
-- [Webnative Whitepaper](https://github.com/fission-codes/whitepaper)
-- [Webnative Examples](https://github.com/webnative-examples)
+- [SDK](https://github.com/fission-codes/webnative) - the base SDK for building Webnative apps
+- [Guide](https://guide.fission.codes/) - documentation on using Webnative
+- [App Template](https://github.com/webnative-examples/webnative-app-template) - clone-and-go template for quickly building a web app using Webnative.
+- [Examples](https://github.com/webnative-examples) - example apps built with Webnative.
+- [Whitepaper](https://github.com/fission-codes/whitepaper) - original whitepaper that outlines the Webnative vision.
 
 ## Connect with us!
 
 - [Follow us on Twitter](https://twitter.com/FISSIONcodes)
 - [Join our Discord](https://fission.codes/discord)
-- [Join our Discourse](https://talk.fission.codes/)
-- [Fission Events](https://talk.fission.codes/upcoming-events)
+- [Dive deeper on Discourse](https://talk.fission.codes/)
+- [Attend Fission Events](https://lu.ma/community/com-XuESjPQQHjh43pc/calendar)
