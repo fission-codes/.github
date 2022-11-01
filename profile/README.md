@@ -1,6 +1,6 @@
 # Building protocols for the future of the Internet
 
-Fission is building the _data_, _identity_ & _compute_ primitives that enable true local-first edge applications.
+Fission is building the _identity_, _data_ & _compute_ primitives that enable true local-first edge applications.
 
 ## Working Groups
 
