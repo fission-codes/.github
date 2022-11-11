@@ -26,4 +26,4 @@ Fission's true local-first, edge computing stack. Webnative empowers you to buil
 - [Follow us on Twitter](https://twitter.com/FISSIONcodes)
 - [Join our Discord](https://fission.codes/discord)
 - [Dive deeper on Discourse](https://talk.fission.codes/)
-- [Attend Fission Events](https://lu.ma/community/com-XuESjPQQHjh43pc/calendar)
+- [Attend Fission Events](https://lu.ma/fission-online-events)
