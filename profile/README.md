@@ -25,4 +25,5 @@ Fission's true local-first, edge computing stack. The ODD SDK empowers you to bu
 - [Follow us on Twitter](https://twitter.com/FISSIONcodes)
 - [Join our Discord](https://fission.codes/discord)
 - [Dive deeper on Discourse](https://talk.fission.codes/)
+- [Watch the lastest Fission videos](https://www.youtube.com/@fissioncodes)
 - [Attend Fission Events](https://lu.ma/fission-online-events)
